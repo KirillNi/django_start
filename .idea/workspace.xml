@@ -2,55 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cacbb893-00e9-4384-a15f-b5aa84bff067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/app-store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/controll.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/controll1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/controll2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/google-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/icon-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/mobile-back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-1-lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-2-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-3-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-4-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-5-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/product-61.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/promo-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/promo-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/slider-hotdeal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/slider1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/social-links.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,10 +44,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/geekshop/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
