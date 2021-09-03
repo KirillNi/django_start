@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cacbb893-00e9-4384-a15f-b5aa84bff067" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0002_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/app-store.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/controll.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/controll1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/controll2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/google-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/icon-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/mobile-back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-1-lg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-2-sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-3-sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-4-sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-5-sm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/product-61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/promo-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/promo-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/slider-hotdeal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/slider.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/slider1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/media/social-links.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson_2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xGpeJal7obZyKNA6B8gUSamQGz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sonny\Desktop\django_start\geekshop\static" />
+      <recent name="C:\Users\Sonny\Desktop\django_start\geekshop\mainapp\templates\mainapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sonny\Desktop\django_start\geekshop" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cacbb893-00e9-4384-a15f-b5aa84bff067" name="Changes" comment="" />
+      <created>1629991375379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629991375379</updated>
+      <workItem from="1630659747959" duration="12294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Lesson_3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
