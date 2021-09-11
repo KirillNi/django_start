@@ -2,49 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cacbb893-00e9-4384-a15f-b5aa84bff067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0002_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/app-store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/controll.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/controll1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/controll2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/google-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/icon-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/mobile-back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-1-lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-2-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-3-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-4-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-5-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-61.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/promo-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/promo-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/slider-hotdeal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/slider1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/social-links.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/templates/authapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/templates/authapp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/templates/authapp/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/authapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/management/commands/fill_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ef05a43-bfef-4509-981a-906fb60c147f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5ef05a43-bfef-4509-981a-906fb60c147f.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/migrations/0002_product.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -61,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson_2" />
+        <entry key="$PROJECT_DIR$" value="Lesson_3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -112,6 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629991375379</updated>
       <workItem from="1630659747959" duration="12294000" />
+      <workItem from="1631102610913" duration="175000" />
+      <workItem from="1631160512575" duration="7123000" />
     </task>
     <servers />
   </component>
@@ -123,19 +105,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="Lesson_3" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
