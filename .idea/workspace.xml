@@ -2,48 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cacbb893-00e9-4384-a15f-b5aa84bff067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0002_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/app-store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/controll.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/controll1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/controll2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/google-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/icon-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/mobile-back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-1-lg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-2-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-3-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-4-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-5-sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/product-61.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/promo-img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/promo-img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/slider-hotdeal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/slider.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/slider1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/social-links.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ef05a43-bfef-4509-981a-906fb60c147f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5ef05a43-bfef-4509-981a-906fb60c147f.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629991375379</updated>
       <workItem from="1630659747959" duration="12294000" />
+      <workItem from="1631355974736" duration="38000" />
     </task>
     <servers />
   </component>
