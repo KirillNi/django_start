@@ -82,8 +82,8 @@ html, body {
 }
 .basket {
 	display: block;
-	width: 23px;
-	height: 23px;	
+	width: 24px;
+	height: 24px;
 	background-image: url(img/basket.png);
 	position: absolute;
 	top: 63px;
@@ -1069,4 +1069,8 @@ td:first-child {
 }
 .related-products a:hover .text{
 	display: block;
+}
+
+.category_record.not_active {
+	opacity: 0.5;
 }
