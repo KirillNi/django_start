@@ -2,52 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cacbb893-00e9-4384-a15f-b5aa84bff067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/includes/inc_menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/user_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/user_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/views/categories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/views/products.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/views/users.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/authapp/templates/authapp/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0002_productcategory_is_active.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/users_avatars/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/users_avatars/user_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ef05a43-bfef-4509-981a-906fb60c147f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5ef05a43-bfef-4509-981a-906fb60c147f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/product_read.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/authapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/authapp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/authapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/authapp/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/authapp/templates/authapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/authapp/templates/authapp/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/basketapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/basketapp/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/basketapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/basketapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/basketapp/templates/basketapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/basketapp/templates/basketapp/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/basketapp/templates/basketapp/basket.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/basketapp/templates/basketapp/basket.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/basketapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/basketapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/adminapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/adminapp/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/adminapp/templates/adminapp/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/adminapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/adminapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/adminapp/views/categories.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/adminapp/views/categories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/adminapp/views/products.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/adminapp/views/products.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/adminapp/views/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/adminapp/views/users.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/basketapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/basketapp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/migrations/0002_product.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_categories_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_categories_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/static/img/basket.png" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/static/img/basket.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/static/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +92,7 @@
       <workItem from="1631857185811" duration="7176000" />
       <workItem from="1632117480106" duration="4574000" />
       <workItem from="1632122110002" duration="11447000" />
+      <workItem from="1632733843115" duration="2664000" />
     </task>
     <servers />
   </component>
