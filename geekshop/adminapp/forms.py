@@ -4,6 +4,7 @@ from authapp.forms import ShopUserEditForm
 from mainapp.models import ProductCategory
 from mainapp.models import Product
 
+
 class ShopUserAdminEditForm(ShopUserEditForm):
     class Meta:
         model = ShopUser
