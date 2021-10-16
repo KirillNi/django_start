@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cacbb893-00e9-4384-a15f-b5aa84bff067" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +62,7 @@
       <recent name="C:\Users\Sonny\Desktop\django_start\geekshop\mainapp\templates\mainapp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sonny\Desktop\django_start" />
       <recent name="C:\Users\Sonny\Desktop\django_start\geekshop" />
     </key>
   </component>
@@ -85,7 +85,7 @@
       <workItem from="1632916973770" duration="428000" />
       <workItem from="1633063890887" duration="1130000" />
       <workItem from="1633515200023" duration="8258000" />
-      <workItem from="1634379662372" duration="718000" />
+      <workItem from="1634379662372" duration="1384000" />
     </task>
     <servers />
   </component>
